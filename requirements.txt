@@ -1,5 +1,7 @@
-dash==2.10.2
-pandas==2.0.0
-plotly==5.15.0
+dash==2.14.2
 gunicorn
+plotly==5.9
 dash-tools
+pandas==2.1.4
+sqlalchemy==2.0.25
+dash_bootstrap_components
