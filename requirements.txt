@@ -5,3 +5,4 @@ dash-tools
 pandas==2.1.4
 sqlalchemy==2.0.25
 dash_bootstrap_components
+python-dotenv
